@@ -20,6 +20,7 @@
 - 2 pin adapter
 - laptop
 - laptop charger
+- kindle
 
 ## toiletries 🪥 
 
