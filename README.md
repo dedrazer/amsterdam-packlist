@@ -8,6 +8,7 @@
 ## clothes
 
 - long pants
+- shorts
 - t-shirts
 - hoodie
 - underwear
@@ -24,3 +25,4 @@
 
 - toothbrush
 - deo
+- razor
