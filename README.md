@@ -1,11 +1,11 @@
 # amsterdam-packlist
 
-## apps
+## apps 📱 
 
 - VGB (public transport)
 - NS (train
 
-## clothes
+## clothes 👕 
 
 - long pants
 - shorts
@@ -14,14 +14,14 @@
 - underwear
 - trainers
 
-## electronics
+## electronics ⚡️ 
 
 - mobile charger
 - 2 pin adapter
 - laptop
 - laptop charger
 
-## toiletries
+## toiletries 🪥 
 
 - toothbrush
 - deo
