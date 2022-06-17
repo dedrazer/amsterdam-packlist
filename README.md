@@ -19,3 +19,8 @@
 - 2 pin adapter
 - laptop
 - laptop charger
+
+## toiletries
+
+- toothbrush
+- deo
