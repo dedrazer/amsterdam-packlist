@@ -3,7 +3,7 @@
 ## apps 📱 
 
 - VGB (public transport)
-- NS (train
+- NS (train)
 
 ## clothes 👕 
 
